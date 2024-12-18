@@ -9,7 +9,9 @@ Compare mental health support in the tech industry versus non-tech industries.
 Analyse the correlation between mental health awareness and factors such as company size, demographics, and job roles.
 
 Tools and Technologies
+
 Power BI: For visualising key trends and relationships in the dataset.
+
 Python: For data cleaning and manipulation.
 
 Summary
